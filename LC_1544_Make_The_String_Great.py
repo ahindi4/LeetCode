@@ -18,3 +18,7 @@ class Solution:
 #then we subtract their values and check if they are equal to 32 
 #which is the difference between same letters if one is captlized
 #if the if statment is met we pop at stack[-1]
+
+
+#Time Complexity: O(n)
+#Space Complexity: O(n)
